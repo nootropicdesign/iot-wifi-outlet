@@ -6,7 +6,7 @@ Dependencies:
 * [PubSubClient](https://github.com/knolleary/pubsubclient)
 
 
-[Full Project Description at nootropicdesign.com](https://nootropicdesign.com/projectlab/2017/09/03/wifi-iot-electrical-outlet)
+[Full Project Description at nootropicdesign.com](https://nootropicdesign.com/projectlab/2017/08/26/wifi-iot-electrical-outlet)
 
 
 
